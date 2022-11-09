@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#VSCode
+.vscode/
+
+#Ignore sync.ffs_db
+sync.ffs_db
+
+
 #Data files
 *.csv
 *.json
