@@ -16,6 +16,7 @@ sync.ffs_db
 #Data files
 *.csv
 *.json
+*.jsonl
 *.xml
 *.yml
 *.yaml
